@@ -1,3 +1,10 @@
 {
-   "shapeSetList" : [ "$CONTENT_DATA/Objects/Database/ShapeSets/blocks.shapeset" ]
+   "shapeSetList" : [
+      "$CONTENT_DATA/Objects/Database/ShapeSets/blocks.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/interactive_shared.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/interactive_upgradeable.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/powertools.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/scrapinteractables.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/vehicle.shapeset"
+   ]
 }
