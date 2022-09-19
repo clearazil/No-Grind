@@ -261,13 +261,10 @@ lootTables.loot_totebot_green = {
 }
 
 lootTables.loot_haybot = {
-	slots = function() return randomStackAmount( 1, 1, 2) end,
-	selectOne = {
-		{ uuid = obj_consumable_component,	chance = 1 },
-	},
+	slots = function() return randomStackAmount( 1, 1, 2 ) end,
 	randomLoot = {
-		{ uuid = obj_resource_circuitboard,		chance = 2, quantity = randomStackAmountAvg2 },
-		{ uuid = obj_resource_circuitboard,	chance = 1, quantity = randomStackAmountAvg2 },
+		{ uuid = obj_consumable_component,	chance = 5 },
+		{ uuid = obj_resource_circuitboard,		chance = 1, },
 	}
 }
 

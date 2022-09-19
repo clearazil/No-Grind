@@ -1,7 +1,8 @@
 {
    "allow_add_mods" : true,
    "custom_icons" : false,
-   "description" : "This mod makes the game a little less grindy.\n\nChanges:\n - Block stack size increased to 750\n - Blueprints usable in survival (press E when near a lift)\n - Haybots always drop component kits with a chance of a circuit board\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\n - Refine time cut in half\n - Added Fertilizer recipes:\n * 10 blueberry, 10 orange, 10 banana seeds\n * 10 pineapple, 10 broccoli seeds\n * 30 potato seeds\n * 30 cotton seeds",
+   "description" : "This mod makes the game a little less grindy.\r\n\r\nChanges:\r\n - Block stack size increased to 750\r\n - Haybots always drop component kits with a chance of a circuit board\r\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\r\n - Refine time cut in half\r\n - Added Fertilizer recipes:\r\n * 10 blueberry, 10 orange, 10 banana seeds\r\n * 10 pineapple, 10 broccoli seeds\r\n * 30 potato seeds\r\n * 30 cotton seeds\r\n\r\nNote, this is the case apparantly for all custom games:\r\n - Blueprints usable in survival (press E when near a lift), you still need all the items required to build it.",
+   "fileId" : 2865011962,
    "localId" : "426e16fe-4523-4002-a80c-207fa007258c",
    "name" : "Less Grind",
    "type" : "Custom Game",
