@@ -1,7 +1,7 @@
 {
    "allow_add_mods" : true,
    "custom_icons" : false,
-   "description" : "This mod doesn't have a description",
+   "description" : "This mod makes the game a little less grindy.\n\nChanges:\n - Block stack size increased to 750\n - Blueprints usable in survival (press E when near a lift)\n - Haybots always drop component kits with a chance of a circuit board\n - Refining wood, stone, metal etc. will yield 30 items instead of 10\n - Added Fertilizer recipes:\n * 10 blueberry, 10 orange, 10 banana seeds\n * 10 pineapple, 10 broccoli seeds\n * 30 potato seeds\n * 30 cotton seeds",
    "localId" : "426e16fe-4523-4002-a80c-207fa007258c",
    "name" : "Less Grind",
    "type" : "Custom Game",
