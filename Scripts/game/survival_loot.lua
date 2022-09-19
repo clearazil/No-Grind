@@ -266,7 +266,8 @@ lootTables.loot_haybot = {
 		{ uuid = obj_consumable_component,	chance = 1 },
 	},
 	randomLoot = {
-		{ uuid = obj_resource_circuitboard,		chance = 1, quantity = randomStackAmountAvg2 },
+		{ uuid = obj_resource_circuitboard,		chance = 2, quantity = randomStackAmountAvg2 },
+		{ uuid = obj_resource_circuitboard,	chance = 1, quantity = randomStackAmountAvg2 },
 	}
 }
 
