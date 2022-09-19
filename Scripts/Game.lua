@@ -1,4 +1,4 @@
-dofile "$SURVIVAL_DATA/Scripts/game/SurvivalGame.lua"
+dofile "$CONTENT_DATA/Scripts/game/SurvivalGame.lua"
 dofile( "$CONTENT_DATA/Scripts/game/util/recipes.lua" )
 
 Game = class( SurvivalGame )
